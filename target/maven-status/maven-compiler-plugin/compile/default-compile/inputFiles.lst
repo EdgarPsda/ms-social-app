@@ -1,0 +1,16 @@
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/exception/ExceptionResponse.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/User.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserJPAResource.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/filtering/SomeBean.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/Post.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserNotFoundException.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/versioning/Person.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/filtering/FilteringController.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserResource.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserRepository.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/exception/CustomizedResponseEntityExceptionHandler.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserValidationException.java
+/Users/edgarpsda/Documents/projects/ms-social-app/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/user/UserDaoService.java
